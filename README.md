@@ -7,3 +7,6 @@ Spring Data JPA
 Lombok
 PostgreSQL 16
 Maven
+
+
+project url -- https://github.com/PinkyGuptaa/ExpenseTracker
